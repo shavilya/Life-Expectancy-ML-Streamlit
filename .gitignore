@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Folders 
+Life-Expectancy-ML-Streamlit 
+
 # C extensions
 *.so
 
